@@ -23,3 +23,4 @@ urlpatterns = [
     path('recipes/', include('recipes.urls'))
 ]
 
+    
